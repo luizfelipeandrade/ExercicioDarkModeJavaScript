@@ -2,4 +2,4 @@
 Exercício utilizando o Java Script para criação do LightMode e DarkMode da Dio Digital One
 
 
-![dark-mode-exercicio](https://user-images.githubusercontent.com/86747258/139294576-ec3e7950-2c35-4268-9521-941edbdf9dda.gif)
+![20211028_132211](https://user-images.githubusercontent.com/86747258/139296463-d5a1de22-6ed1-46e6-8de8-3ba15459ef16.gif)
